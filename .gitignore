@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# Entorno virtual
+venv/
+.venv/
+
+# Resultados
+output/
+*.csv
+*.json
+
+# Sesiones guardadas
+instagram_state.json
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Playwright
+playwright-report/
+trace.zip
